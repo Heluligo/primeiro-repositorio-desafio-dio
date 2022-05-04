@@ -5,3 +5,5 @@ Era uma noite tranquila nos dormitórios da Universidade da Virgínia, Estados U
 Quando o alarme da jovem disparou às sete da manhã e ela abriu os olhos, um grito penetrante saiu de sua boca quando ela avistou o que um dia fora o corpo de sua amiga espalhado por toda a sala em enormes poças de sangue e viseiras. Seus braços em uma extremidade do chão, suas pernas na escrivaninha, e seu rosto descolado do crânio em cima do travesseiro, ensangüentado além da crença. A cena mórbida e horripilante foi concluída quando a jovem desmaiou ao ler algumas palavras escritas na porta com o sangue de sua amiga:
 
 "VOCÊ NÃO ESTÁ FELIZ POR NÃO TER ACENDIDO A LUZ?"
+
+Voltar para o [índice]
