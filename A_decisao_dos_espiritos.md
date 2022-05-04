@@ -1,4 +1,4 @@
-### #A decisão dos espíritos
+# A decisão dos espíritos
 
 Era uma noite tranquila nos dormitórios da Universidade da Virgínia, Estados Unidos, quando uma jovem chegava de uma festa que terminava às três da manhã. Por cortesia, e graças ao fato de que sua colega de quarto era muito estudiosa e dedicada em suas horas de sono, ela deixou a luz apagada quando entrou no quarto, trocou de roupa e foi direto para a cama, esperando que o exame do dia seguinte não fosse tão ruim quanto ela esperava.
 
