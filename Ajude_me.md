@@ -1,4 +1,4 @@
-### #Ajude-me! +
+# Ajude-me!
 
 Fugindo do ritmo acelerado da vida na cidade grande, um casal decidiu se mudar com seus dois filhos para uma casa de campo no campo, que ficava muito perto do vilarejo onde nasceram. A casa estava desabitada há muitos anos e precisava de alguns reparos, mas o preço reduzido os convenceu.
 
