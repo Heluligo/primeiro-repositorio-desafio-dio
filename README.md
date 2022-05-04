@@ -5,7 +5,7 @@ O medo é uma reação do nosso corpo a um perigo, um mecanismo de defesa contra
 
 ### 1 - [A Cabine](https://github.com/Heluligo/primeiro-repositorio-desafio-dio/blob/main/A_Cabine.md)
 ### 2 - [A Decisão dos Espíritos](https://github.com/Heluligo/primeiro-repositorio-desafio-dio/blob/main/A_decisao_dos_espiritos.md)
-### 3 - [Ajude-me]
+### 3 - [Ajude-me](https://github.com/Heluligo/primeiro-repositorio-desafio-dio/blob/main/Ajude_me.md)
 
 Todas as histórias foram coletadas no site [Brasil 247](https://www.brasil247.com/geral/3-historias-curtas-de-terror-e-medo-para-mante-lo-desperto-durante-a-noite)
 
